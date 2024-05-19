@@ -9,4 +9,10 @@ haaaaaaaaaaaaaaaaaaaaaahahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 komedyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 hahahahahahhahahhahahhahhahahahha
 oye hoye aaye haye
+<<<<<<< HEAD
 bado badi bado badi
+=======
+bado badi bado badi
+hahahahahahha
+hellllooooooooooo
+>>>>>>> Ansuu
